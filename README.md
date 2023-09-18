@@ -38,12 +38,6 @@ Lazy Loading Pagination is a web application that uses lazy loading techniques t
 
 ---
 
-## Demo
-
-Here is a link to the live demo of the project: [Demo](https://example.com)
-
----
-
 ## Features
 
 - Lazy loading of data as the user scrolls down.
@@ -55,9 +49,10 @@ Here is a link to the live demo of the project: [Demo](https://example.com)
 ## **Tech stacks used :**
 To create this clone following Tech stack is used by contributors.  
 <br>
-<img src="https://img.shields.io/badge/reactjs-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/BootStrap-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 ## Installation and Setup Instructions
 Clone down this repository using this <a href="https://github.com/warriorruchi/adobe-xd-clone">link</a> 
