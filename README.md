@@ -55,7 +55,7 @@ To create this clone following Tech stack is used by contributors.
 <img src="https://img.shields.io/badge/BootStrap-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 ## Installation and Setup Instructions
-Clone down this repository using this <a href="https://github.com/warriorruchi/adobe-xd-clone">link</a> 
+Clone down this repository using this <a href="https://github.com/warriorruchi/NextGrowth">link</a> 
 <hr/>
 
 ## Getting Started
