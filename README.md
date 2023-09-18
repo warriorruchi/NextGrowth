@@ -8,7 +8,7 @@ This project demonstrates lazy loading to avoid pagination using Vanilla JavaScr
 ---
 
 # Deployment Link
-<a href="https://github.com/warriorruchi/adobe-xd-clone">link</a> 
+<a href="https://warriorruchi.github.io/NextGrowth/">link</a> 
 <hr/>
 
 ## Responsive Design
